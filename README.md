@@ -7,6 +7,8 @@
 
 ![Thiago-laza GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-laza&show_icons=true&theme=dracula)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-laza&langs_count=8)
 ## Tecnologias que uso:
 
 <div style="display: inline_block"><br>
